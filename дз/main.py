@@ -13,6 +13,7 @@ copy_content = None
 copy_type = None
 
 w = tk.Tk()
+print()
 
 def on_mousewheel(event):
     if event.delta > 0:
